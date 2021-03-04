@@ -42,8 +42,8 @@ This project was done for my Machine Learning course.
     
 ### Description of Outcomes:
 
-| Cluster Number | Description 
-| 1              | Represent subscriber who have low amount of data utilization with low duration of connected session
-| 2              | Represent subscriber who have low to medium amount of data utilization and with medium of connected session
-| 3              | Represent subscriber who have medium to high amount of data utilization and with medium to high duration of connected session
+| Cluster Number | Description                                                                                                                   |
+| 1              | Represent subscriber who have low amount of data utilization with low duration of connected session                           |
+| 2              | Represent subscriber who have low to medium amount of data utilization and with medium of connected session                   |
+| 3              | Represent subscriber who have medium to high amount of data utilization and with medium to high duration of connected session |
 
