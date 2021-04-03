@@ -1,4 +1,4 @@
-# Hierarchical-Clustering
+# Hierarchical-Clustering (categorising telco's customer type)
 
 This project was done for my Machine Learning course.
 
